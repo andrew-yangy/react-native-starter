@@ -1,8 +1,7 @@
 # react-native-starter
 A react native starter kit for React Native + Redux (IOS $ Android )
 ## Screenshot
-<img src="screenshot/home.jpg" />
-
+(./screenshots/home.jpg)
 ### Setup
 
 ```
