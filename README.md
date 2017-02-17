@@ -2,7 +2,8 @@
 A react native starter kit for React Native + Redux (IOS $ Android )
 ## Screenshot
 <img src="./screenshot/home.jpg" width="800>
-## Setup
+
+### Setup
 ```
 npm install -g react-native-cli
 $ git clone https://github.com/ddvkid/react-native-starter.git
